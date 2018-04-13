@@ -1,0 +1,4 @@
+host Alex
+ip route 0.0.0.0 0.0.0.0 f0/0
+exit
+sh clock
